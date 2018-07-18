@@ -30,5 +30,5 @@ build_spec = 'Engine Release'
 [package]
 type = 'nipkg'
 name = 'slsc-eds-custom-device-{version}'
-release_version = '1.0'
 install_destination = 'documents\National Instruments\NI VeriStand {version}\Custom Devices\SLSC Plug-ins'
+dev_xml_path = 'Source\Custom Device SLSC EDS.xml'
