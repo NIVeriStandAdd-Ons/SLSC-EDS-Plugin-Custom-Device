@@ -1,3 +1,5 @@
+This code has been archived. For the latest version, please go to: https://github.com/ni/niveristand-slsc-eds-custom-device
+
 # SLSC-EDS-Plugin-Custom-Device
 SLSC EDS (Electronic Datasheet) Plugin Custom Device allows any generic SLSC Capabilities File to be used within the VeriStand.
 
